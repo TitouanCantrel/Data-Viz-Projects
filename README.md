@@ -19,4 +19,7 @@
 - Importer des visuels
 - Mettre les différents visuels (ex : Pie chart, Select chart, Line Chart, Map Graph, KPI dynamic) 
 
-![Texte alternatif](work/Dashboard final.JPG)
+<p align="center">
+  <img src="work/Dashboard final.JPG"/>
+</p>
+
