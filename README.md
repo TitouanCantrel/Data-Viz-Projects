@@ -1,4 +1,4 @@
-<h3 align="center">Data Viz Projects</h3>
+<h2 align="center">Data Viz Projects</h3>
 
 ## ⚙️ Setup & Mise en forme des requêtes clients:
 - Installer et utiliser les logiciels suivants : SQL Server Express, SQL Server Management Studio
